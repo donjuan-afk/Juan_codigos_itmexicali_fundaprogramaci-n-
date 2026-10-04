@@ -8,4 +8,4 @@ Integrates: Juan Manuel Arellano Leiva
 Proyecto 2: calculadora de edad en días 
 
 video explicando el proyecto
-https://youtu.be/dKX5KxaxADc
+https://youtu.be/xhLU6bge5Sg
