@@ -11,7 +11,7 @@ Proyecto 2: calculadora de edad en días
 
 Proyecto 2: Un programa que da los años vividos del usuario en días vividos a través de una serie de operaciones sencillas como lo son pedir la edad, el mes de nacimiento en números y luego se declara en el código como ira la operación.
 
-¿Uso de IA? # Proyecto: Edad en días tuvo apoyo de IA solo para consejos en el decorado del programa (/n)
+¿Uso de IA?  Proyecto: Edad en días tuvo apoyo de IA solo para consejos en el decorado del programa (/n)
 ===========================================================================================================
 Descripción del Proyecto
 
