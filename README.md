@@ -17,7 +17,7 @@ Descripción del Proyecto
 
 Proyecto 3: Mini Juego
 
-Proyecto 3: Programa en Python que desafía al usuario a adivinar un número generado aleatoriamente en un rango de 1 a 50, proporcionando pistas ("mayor" o "menor") y controlando un límite de intentos mediante estructuras de control de flujo.
+Descripción: Programa en Python que desafía al usuario a adivinar un número generado aleatoriamente en un rango de 1 a 50, proporcionando pistas ("mayor" o "menor") y controlando un límite de intentos mediante estructuras de control de flujo.
 
 Declaración de IA
 
@@ -25,6 +25,16 @@ Declaramos que hemos utilizado herramientas de Inteligencia Artificial como apoy
 
 Evidencia de Ejecución
 Las capturas de pantalla de la ejecución del programa se encuentran en la carpeta `capturas/`.
+==============================================================================================================
+Proyecto 4: Tabla de posiciones
 
-video explicando los proyectos
+Descripción: Usa una clase Equipo (nombre, ganados, perdidos,
+empates, puntos). Usa una matriz para almacenar los
+puntos de varios equipos (ganado = 3, perdido = 0,
+empate = 1) y calcular el líder.
+
+Declaración de IA 
+Apoyo para desarrollar los for en el codigo 
+
+video explicando los proyectos 
 https://youtu.be/xhLU6bge5Sg
